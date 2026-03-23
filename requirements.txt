@@ -1,0 +1,9 @@
+labelme==5.3.0
+labelme2yolo
+matplotlib
+numpy
+opencv-contrib-python
+torch torchvision
+PyQt5
+ultralytics
+lap
