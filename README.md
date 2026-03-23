@@ -1,10 +1,10 @@
-YOLO Object Detection Project 
-\nProject Overview
-/nThis repository contains my custom-trained YOLO model (best.pt) and the implementation script for real-time object detection.
+YOLO Object Detection Project <br>
+Project Overview <br>
+This repository contains my custom-trained YOLO model (best.pt) and the implementation script for real-time object detection. <br>
 
-/nHow to use
-/n1. Install libary from requirements.txt
-    /nby using
-      /npip install -r requirements.txt
-/n2. Run the detection script: CoinCounter.py
-   /npython CoinCounter.py
+How to use <br>
+1. Install libary from requirements.txt
+    by using <br>
+      pip install -r requirements.txt <br>
+2. Run the detection script: CoinCounter.py <br>
+   python CoinCounter.py
